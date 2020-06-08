@@ -27,9 +27,9 @@ MIT
 
 [//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
 
-[Expo]: <[https://expo.io/](https://expo.io/)>
+[Expo]: <https://expo.io/>
 [NodeJs]: <https://nodejs.org/en/>
-[knex]: <[http://knexjs.org/](http://knexjs.org/)>
+[knex]: <http://knexjs.org/>
 [Sequelize]: <https://sequelize.org/>
 [Postman]: <https://www.postman.com/downloads/>
 [neste link]: <https://drive.google.com/open?id=1rk6cejuRqE5NdKsT3qaU5ge-b2jGpaKR>
