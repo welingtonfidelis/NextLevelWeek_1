@@ -16,7 +16,7 @@ Por fim, dentro da pasta mobile, execute o comando npm start ou yarn start para 
 
 ### Contato
 welingtonfidelis@gmail.com
-Sujestões e pull requests são sempre bem vindos =) 
+Sugestões e pull requests são sempre bem vindos =) 
 
 License
 ----
